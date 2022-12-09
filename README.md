@@ -1,8 +1,8 @@
 # WhoAmI
 - 👋 Hi, I’m @mohdfaizan3
-- 👀 I’m interested in contributing the world
+- 👀 I’m interested in contributing to the world.
 - 🌱 I’m currently learning python3 and Arabic language.
-- 💞️ I’m looking to collaborations, so that we could push each other
+- 💞️ I’m looking for collaborations, so that we could push each other
 - 📫 How to reach me 
           
 
