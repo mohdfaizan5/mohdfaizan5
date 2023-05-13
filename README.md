@@ -41,4 +41,4 @@ Hello there! I am Faizan. A Python developer, Web developer and Software enginee
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mohdfaizan5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/mohdfaizan5"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
