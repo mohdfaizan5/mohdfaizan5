@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(0, 0, 0);
+  color: white ;
+  font-family: Inter;
+
+}
+
+.display-name{
+  font-size: 75px;
+  font-weight: 700;
+  margin: 10px 5px;
+}
+
+.short-description{
+  font-size: 23px;
+  font-weight: 600;
+  margin: 10px 5px;
+}
+.short-description2{
+  color: rgb(143, 144, 148);
+}
+
+
+.hey{
+  font-size: 23px;
+  font-weight: 600;
+  color: rgb(60, 207, 145);
+  margin-bottom: 0px;
+}
