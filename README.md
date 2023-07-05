@@ -33,6 +33,7 @@ Hello there! I am Faizan. A Python developer, Web developer and Software enginee
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [mohdfaizan13123@gmail.com](mailto:mohdfaizan13123@gmail.com)
+* 📜  [My Portfolio](https://mohdfaizan5.github.io/mohdfaizan5/portfolio.html)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Web development | Startups | AI & ML
 
