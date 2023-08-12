@@ -1,116 +1,102 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
 body{
-  background-color: rgb(0, 0, 0);
-  color: white ;
-  font-family: Inter, Arial, Helvetica, sans-serif;
-  padding: 0px;
-  margin-top: 0;
-  margin-bottom: 1000px;
-  margin-left: 30px;
-
-}
-
-.display-name{
-
-  font-size: 75px;
-  font-weight: 700;
-  margin: 10px 5px;
-}
-
-/* Header */
-
-.company_name{
-  margin-left: 10px;
-  color: rgb(143, 144, 148);
-  font-size: 16px;
-  padding: 10px;
-  border: 2px solid none;
-  margin-bottom: 10px;
-  margin-top: 0px;
-  font-size: 23px;
-  
-}
-
-nav{
-  display: grid;
-  grid-template-columns: 100px 1fr 200px;
-  align-items: center;
-  padding: 8px;
-
-}
-
-.headerContainer{
-  position: fixed;
-  top: 0%;
-  left: 0%;
-  right: 0%;
-  background-color: black;
-  border-bottom: 1px solid grey;
-}
-.nav_btn1{
   background-color: black;
   color: white;
-  border: 1px solid black;
-  padding:  8px 10px;
-  border-radius: 3px;
-  font-weight: 600;
-  font-size: 16px;
+  font-family: Inter;
+  padding: 0px;
+  margin: 0px;
+  /* padding-bottom: 500px; */
 }
-.nav_btn1:hover{
-  background-color: rgb(27, 27, 27);
-  
+
+
+
+/* Main */
+main{
+  margin-top: 98px;
+  padding: 0px 110px;
 }
-/* hr{
-  color: rgb(143, 144, 148);
-
-} */
-
-/* HeaderEnd */
-
 
 .hey{
-  font-size: 23px;
-  font-weight: 600;
   color: rgb(60, 207, 145);
-
-  margin-top: 80px;
-  margin-left: 20px;
-  margin-bottom: -10px;
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0px;
 }
 
-.display-name{
-  margin-left: 22px;
-  margin-bottom: 25px;
-  margin-top: 0px;
-
+.bigName{
+  font-size: 90px;
+  margin: 0px;
 }
+
 
 .short-description{
-  font-size: 23px;
+  font-size: 27px;
   font-weight: 600;
-  margin: 10px 25px;
-
 }
-
-.short-description2{
+.short-description span{
   color: rgb(143, 144, 148);
-  margin: 20px 20px;
+  line-height: -1.6px;
 }
 
-.current_learning{
-  font-size: 18px;
-  padding: 20px;
+/* Social buttons */
+.socailBtns{
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+  margin: 30px;
+}
+
+.socailBtns button{
+  color: white;
+  background-color: #1A202C;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 2px;
+
+}
+
+.socailBtns button:hover{
+  background-color: #13171e;
 }
 
 
 
-/* Description */
-.description{
-  margin-top: 20px;
-  font-size: 16px;
-  margin-left: 20px;
-  margin-right: 20px;
-}
+/* responsive design */
 
-.highlighted_text{
-  color: rgb(60, 207, 145);
+
+/* Mobile L */
+@media(max-width: 426px){
+  nav{
+    padding: 12px 13px;
+  }
+  .bigName{
+    font-size: 60px;
+  }
+  main{
+    padding: 0px 21px;
+  }
+
+}
+/* Mobile M */
+@media(max-width: 376px){
+  /* nav{
+    padding: 12px 13px;
+  } */
+  .bigName{
+    font-size: 55px;
+  }
+  .short-description{
+    font-size: 19px;
+  }
+  /* main{
+    padding: 0px 21px;
+  } */
+
+  .current_learning{
+    font-size: 14px;
+  }
 }

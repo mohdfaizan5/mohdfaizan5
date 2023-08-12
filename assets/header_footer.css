@@ -1,0 +1,41 @@
+nav{
+  border-bottom: 1px solid rgba(128, 128, 128, 0.47);
+  /* height: 65px; */
+  font-size: 32px;
+  font-weight: 700;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 34px;
+  
+  position: fixed; /*From here on nav fixed*/
+  top: 0;
+  right: 0;
+  left: 0;
+  background-color: black;
+}
+
+nav span{
+  color: rgb(143, 144, 148);
+}
+
+nav div button{
+  background-color: black;
+  color: white;
+  border: none;
+  font-size: 18px;
+}
+
+/* Footer */
+
+footer{
+  /* position: relative;
+  bottom: 0;
+  right: 0;
+  left: 0; */
+  display: flex;
+  margin: 40px 0px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 500px;
+}
