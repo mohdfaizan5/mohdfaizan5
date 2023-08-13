@@ -7,6 +7,9 @@
   <link rel="shortcut icon" href="assets/favicons/android-chrome-192x192.png" type="image/png">
   <link rel="stylesheet" href="assets/style.css">
   <link rel="stylesheet" href="assets/header_footer.css">
+
+  <!-- Fontawesome CDNjs for icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
   <nav>
@@ -15,7 +18,9 @@
     </div>
     <div>
       <button>Home</button>
-      <button>Projects</button>
+      <a href="#projects">
+        <button>Projects</button>
+      </a>
     </div>
 
   </nav>
@@ -29,13 +34,167 @@
       💻 Currently specializing in <span class="highlighted_text">Front-end Development.</span></p>
 
     <div class="socailBtns">
-      <button>LinkedIn</button>
-      <button>Github</button>
-      <button>Email</button>
+      <button>
+        <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
+        LinkedIn</button>
+
+      <button>
+        <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
+        Github
+      </button>
+      
+      <button>
+        <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>  
+        Email</button>
+      <!-- <i class="fa-solid fa-file-lines" style="color: #3ccf91;"></i> -->
     </div>
+
+
+    <h2 id="projects">Projects</h2>
+    
+    <section class="projects_section">
+      <div class="project_container">
+        <img src="assets/imgs/project1.PNG" alt="">
+        <div class="project_description">
+          <div>
+            Natasha.ai
+          </div>
+          <div class="project_technologies">
+            <button>HTML</button>
+            <button>HTML</button>
+            <button>HTML</button>
+          </div>
+          <div>
+            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+          </div>
+        </div>
+
+      </div>
+      
+
+
+      <!--
+
+          <div class="project_name">
+            Natasha.ai
+            <i class="fa-solid fa-share"></i>
+          </div>
+          <div>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JS</span>
+
+          </div>
+          <div>
+            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+          </div>
+        -->
+      
+
+<!-- 
+      <div class="project_div">
+        <img src="assets/imgs/project1.PNG" alt="">
+        
+        <div class="project_description">
+          <div class="project_name">
+            Natasha.ai
+            <i class="fa-solid fa-share"></i>
+          </div>
+          <div>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JS</span>
+
+          </div>
+          <div>
+            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+          </div>
+        </div>
+      </div>
+
+      <div class="project_div">
+        <img src="assets/imgs/project1.PNG" alt="">
+        
+        <div class="project_description">
+          <div class="project_name">
+            Natasha.ai
+            <i class="fa-solid fa-share"></i>
+          </div>
+          <div>
+            <span>HTML</span>
+            <span>CSS</span>
+            <span>JS</span>
+
+          </div>
+          <div>
+            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+          </div>
+        </div>
+      </div>
+      
+      <div>
+        <img src="assets/imgs/project2.PNG" alt="">
+        <section class="project_name">
+          EduHub
+        </section>
+        <section>
+          <span>HTML,CSS</span>
+          <span>JS</span>
+          <span>Django <small>Backend</small></span>
+        </section>
+        <section>
+          Eduhub is a ultimate IT solution for Schools, Colleges and Institutions to manage their whole workflow and make things simple and easy. This student management system build to make lifes of students and institutions easy...
+        </section>
+      </div>
+
+
+      <div>
+        <img src="assets/imgs/yt download cli.PNG" alt="">
+        <section class="project_name">
+          Youtube Video Downloader (CLI)
+        </section>
+        <section>
+          <span>Python</span>
+        </section>
+        <section>
+          Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+        </section>
+      </div>
+
+
+      <div>
+        <img src="assets/imgs/project1.PNG" alt="">
+        <section class="project_name">
+          Natasha.ai
+        </section>
+        <section>
+          <span>HTML</span>
+          <span>CSS</span>
+          <span>JS</span>
+        </section>
+        <section>
+          Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+        </section>
+      </div> -->
+    </section>
   </main>
 </body>
   <footer>
+    <div class="socailBtns">
+      <button>
+        <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
+        LinkedIn</button>
+
+      <button>
+        <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
+        Github
+      </button>
+      
+      <button>
+        <i class="fa-solid fa-file-lines" style="color: #3ccf91;"></i>
+        <!-- <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>   -->
+        Resume</button>
+    </div>
     Designed and Developed by Abdul Rahman.
   </footer>
 </html>
