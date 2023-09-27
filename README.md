@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohd Faizan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23%233CCF91&width=435&lines=Hi+there+this+is+Faizan)]()
 ===================================================================================================================================
  
 <!-- 
@@ -8,7 +9,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -->
 
 
-### Skills
 
 <p align="left">
 <img href="google.com" src="https://user-images.githubusercontent.com/79694828/230014332-40078db9-dcdb-4403-8e58-cfbe8572a89b.png" width="60" height="60" />
@@ -26,7 +26,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
  
-Python Developer | Web development
+<!-- Python Developer | Web development -->
+Helping `Business owners` and `Startup founders` to leverage technology.
 ----------------------------------
 
 Hello there! I am Faizan. A Python developer, Web developer and Software engineer from India. I have over 24+ months of experience in tech industry, Python developer, website backend development (Django), CLI tools, teaching etc. I have strong skills in python language. I really enjoyed working in this field and looking for any opportunity you offer! Contact me if you need anything. I'll do my best to meet your needs and have a great working experience together.
@@ -34,8 +35,12 @@ Hello there! I am Faizan. A Python developer, Web developer and Software enginee
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [mohdfaizan13123@gmail.com](mailto:mohdfaizan13123@gmail.com)
 * 📜  [My Portfolio](https://mohdfaizan5.github.io/mohdfaizan5/portfolio.html)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on Web development | Startups | AI & ML
+* 🧠  I'm learning MERN stack | Entrepreneurship.
+* 🤝  I'm open to collaborating on Web-development | Startups | AI & ML
+### Contributing on:
+- <a href="https://github.com/mohdfaizan5"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
+
+- <a href="https://www.linkedin.com/in/mohdfaizan5/"><img alt="LinkedIn" src="https://img.shields.io/badge/Faizan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohdfaizan5/"></a>
 
 
 
