@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,51 +8,120 @@
   <link rel="shortcut icon" href="assets/favicons/android-chrome-192x192.png" type="image/png">
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="assets/css/header_footer.css">
+  <link rel="stylesheet" href="assets/css/aboutme.css">
 
   <!-- Fontawesome CDNjs for icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-</head>
-<body>
-  <nav>
-    <div>
-      <span>{</span>F<span>}</span>
-    </div>
-    <div>
-      <button>Home</button>
-      <a href="#projects">
-        <button>Projects</button>
-      </a>
-    </div>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
+    integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-  </nav>
+</head>
+
+<body>
+  <header>
+
+    <nav>
+      <div class="left">
+        <span>{</span>F<span>}</span>
+      </div>
+      <div class="right">
+        <a href="">
+          Home
+        </a>
+        <!-- <button>Home</button> -->
+        <a href="#projects">
+          Projects
+        </a>
+      </div>
+      <div class="right-mobile">
+        <i class="fa-solid fa-bars"></i>
+      </div>
+
+    </nav>
+  </header>
   <main>
-    <p class="hey">Hey there!, I'm</p>
-    <h2 class="bigName">Mohammed Faizan</h2>
-    <p class="short-description">Python Developer | Web development <span><br>A self-taught developer with an interest in Computer Science.</span></p>
+    <div class="nameContainer">
+
+      <img src="assets/icons/dotted_svg.svg" alt="">
+      <p class="hey">Hey there!, I'm</p>
+      <h2 class="bigName">Mohammed Faizan.</h2>
+    </div>
+    <p class="short-description">Technology | Entrepreneurship <span><br>Helping Startup founders and Business owners leverage Technology.</span></p>
+    <!-- <p class="short-description">Technology | Entrepreneurship <span><br>A self-taught developer with an interest in <br> Computer Science.</span></p> -->
 
     <p class="current_learning">
       🚀 Exploring opportunities and side projects.<br>
       💻 Currently specializing in <span class="highlighted_text">Front-end Development.</span></p>
 
     <div class="socailBtns">
-      <button>
-        <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
-        LinkedIn</button>
+      <a href="https://www.linkedin.com/in/mohdfaizan5/">
 
-      <button>
-        <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
-        Github
-      </button>
-      
-      <button>
-        <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>  
-        Email</button>
+        <button>
+          <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
+          LinkedIn
+        </button>
+      </a>
+
+      <a href="https://github.com/mohdfaizan5">
+
+        <button>
+          <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
+          Github
+        </button>
+      </a>
+
+      <a href="mailto:mohdfaizan13123@gmail.com">
+
+        <button>
+          <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>
+          Email
+        </button>
+      </a>
       <!-- <i class="fa-solid fa-file-lines" style="color: #3ccf91;"></i> -->
     </div>
 
 
-    <h2 id="projects">Projects</h2>
-    
+    <section class="about_me--container">
+      <div class="left">
+        <h2>⚡About Me</h2>
+        <div>
+          Hello there! I am Faizan. A Python developer, Web developer and Software engineer from India. I have over 24+
+          months of experience in tech industry, Python developer, website backend development (Django), CLI tools,
+          teaching etc. I have strong skills in python language. I really enjoyed working in this field and looking for
+          any opportunity you offer! Contact me if you need anything. I'll do my best to meet your needs and have a
+          great working experience together.
+          <ul>
+            <li>
+              🌍 I'm based in Bangalore, India
+            </li>
+            <li>
+
+              ✉️ You can contact me at mohdfaizan13123@gmail.com
+            </li>
+            <li>
+
+              📜 My Portfolio
+            </li>
+            <li>
+
+              🧠 I'm learning MERN stack | Entrepreneurship.
+            </li>
+            <li>
+
+              🤝 I'm open to collaborating on Web-development | Startups | AI & ML
+            </li>
+          </ul>
+        </div>
+
+      </div>
+      <div class="right">
+        <img src="assets/profile-pic (6).png" alt="">
+      </div>
+
+    </section>
+
+    <h2 id="projects">🔥 Projects</h2>
+
     <section class="projects_section">
       <div class="project_container">
         <img src="assets/imgs/project1.PNG" alt="">
@@ -65,12 +135,13 @@
             <button>HTML</button>
           </div>
           <div>
-            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
+            Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive
+            and makes sure your on your way to your success.
           </div>
         </div>
 
       </div>
-      
+
 
 
       <!--
@@ -89,9 +160,9 @@
             Natasha is a personalized AI assistant which helps you in your daily works and helps you to be productive and makes sure your on your way to your success. 
           </div>
         -->
-      
 
-<!-- 
+
+      <!-- 
       <div class="project_div">
         <img src="assets/imgs/project1.PNG" alt="">
         
@@ -179,22 +250,23 @@
     </section>
   </main>
 </body>
-  <footer>
-    <div class="socailBtns">
-      <button>
-        <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
-        LinkedIn</button>
+<footer>
+  <div class="socailBtns">
+    <button>
+      <i class="fa-brands fa-linkedin" style="color: #3ccf91;"></i>
+      LinkedIn</button>
 
-      <button>
-        <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
-        Github
-      </button>
-      
-      <button>
-        <i class="fa-solid fa-file-lines" style="color: #3ccf91;"></i>
-        <!-- <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>   -->
-        Resume</button>
-    </div>
-    Designed and Developed by Mohammed Faizan.
-  </footer>
+    <button>
+      <i class="fa-brands fa-github" style="color: #3ccf91;"></i>
+      Github
+    </button>
+
+    <button>
+      <i class="fa-solid fa-file-lines" style="color: #3ccf91;"></i>
+      <!-- <i class="fa-solid fa-envelope" style="color: #3ccf91;"></i>   -->
+      Resume</button>
+  </div>
+  Designed and Developed by Mohammed Faizan.
+</footer>
+
 </html>

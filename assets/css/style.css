@@ -1,12 +1,11 @@
-@font-face {
-  font-family: 'Inter';
-  src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
 
-body{
+
+
+body {
   background-color: black;
   color: white;
-  font-family: Inter;
+  font-family: 'Inter';
   padding: 0px;
   margin: 0px;
 }
@@ -14,81 +13,119 @@ body{
 
 
 /* Main */
-main{
+main {
   margin-top: 98px;
-  padding: 0px 110px;
+  padding: 0px 130px;
 }
 
-.hey{
+.hey {
   color: rgb(60, 207, 145);
-  font-size: 22px;
-  font-weight: 700;
+  font-size: 30px;
+  font-weight: 600;
   margin: 0px;
+  z-index: 2;
 }
 
-.bigName{
+.bigName {
+  font-weight: 900;
   font-size: 90px;
   margin: 0px;
+  z-index: 2;
+
 }
 
 
-.short-description{
-  font-size: 27px;
+.short-description {
+  font-size: 30px;
   font-weight: 600;
+  line-height: 36px;
+  letter-spacing: -1.4px;
 }
-.short-description span{
+
+.short-description span {
   color: rgb(143, 144, 148);
   line-height: -1.6px;
 }
 
-/* Social buttons */
-.socailBtns{
-  display: flex;
-  justify-content: center;
-  column-gap: 10px;
-  margin: 30px;
+.nameContainer {
+  position: relative;
 }
 
-.socailBtns button{
+.nameContainer img {
+  /* background-color: rebeccapurple; */
+  /* color: rgb(143, 144, 148); */
+  /* color: rgba(255, 255, 255, 0.92); */
+  fill: green;
+  /* background-color: rgba(255, 255, 255, 0.92); */
+  width: 150px;
+  position: absolute;
+  top: -35px;
+  left: -30px;
+  z-index: -1;
+}
+
+/* Current learning */
+.current_learning {
+  font-size: 20px;
+  color: rgb(143, 144, 148);
+
+}
+
+/* Social buttons */
+.socailBtns {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 10px;
+  margin: 30px;
+
+}
+
+.socailBtns button {
   color: white;
   background-color: #1A202C;
   border: none;
-  padding: 8px 12px;
-  border-radius: 2px;
+  padding: 12px 16px;
+  border-radius: 3px;
+  font-size: 16px;
+  font-weight: 600;
 
 }
 
-.socailBtns img{
+.socailBtns img {
   color: rgb(60, 207, 145);
+
 }
 
 
-.socailBtns button:hover{
+.socailBtns button:hover {
   background-color: #13171e;
+  transition: all 0.2s;
 }
 
 
 
 
 /* Project section */
-.projects_section{
+.projects_section {
   display: grid;
   grid-template-columns: 500px 500px;
   column-gap: 20px;
   row-gap: 30px;
 }
 
-.project_container{
+.project_container {
   width: 100%;
   height: 420px;
   color: rgb(143, 144, 148);
   background-color: rgb(8, 8, 8);
-  border: 1px solid  rgb(17, 17, 17);
+  border: 1px solid rgb(17, 17, 17);
   border-radius: 10px;
-  
+
+
 }
 
-.projects_section div img{
+.projects_section div img {
   width: 100%;
   height: 60%;
   object-fit: cover;
@@ -99,7 +136,7 @@ main{
 }
 
 
-.project_description{
+.project_description {
   padding: 8px 16px;
   height: 35%;
   width: 95%;
@@ -136,42 +173,76 @@ main{
 
 
 /* Mobile L */
-@media(max-width: 426px){
-  nav{
+@media(max-width: 426px) {
+  nav {
     padding: 12px 13px;
   }
-  .bigName{
-    font-size: 60px;
+
+  .hey {
+    font-size: 28px;
   }
-  main{
+
+  .bigName {
+    font-size: 56px;
+    line-height: 56px;
+    margin-bottom: 40px;
+    margin-bottom: 40px;
+  }
+
+  main {
     padding: 0px 21px;
   }
-  .projects_section{
+
+  .projects_section {
     grid-template-columns: 100%;
   }
 
-  .project_description{
+  .project_description {
     width: 95%;
   }
-  .project_container{
+
+  .project_container {
     height: 390px;
   }
-  .projects_section div img{
+
+  .projects_section div img {
     height: 50%;
   }
 
+  .socailBtns {
+    margin: auto;
+    margin-top: 30px;
+    /* height: 14px; */
+  }
+
+  .socailBtns button {
+    padding: 8px 12px;
+    font-size: 14px;
+
+  }
+
 }
+
 /* Mobile M */
-@media(max-width: 376px){
+@media(max-width: 376px) {
 
-  .bigName{
-    font-size: 55px;
+  .hey {
+    font-size: 32px;
   }
-  .short-description{
+
+  .bigName {
+    font-size: 48px;
+    line-height: 48px;
+  }
+
+  .short-description {
     font-size: 19px;
+    line-height: 26px;
+    margin-bottom: 40px;
+    margin-top: 40px;
   }
 
-  .current_learning{
+  .current_learning {
     font-size: 14px;
   }
 

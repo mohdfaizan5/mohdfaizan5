@@ -1,0 +1,23 @@
+.about_me--container{
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.about_me--container .right img{
+  width: 300px;
+
+}
+
+
+/* Responsive Design */
+@media(max-width: 425px) {
+  .about_me--container{
+   flex-direction: column;
+  }
+
+  .about_me--container .right img{
+    width: 200px;
+  
+  }
+}
