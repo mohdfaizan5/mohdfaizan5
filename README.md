@@ -1,18 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohd Faizan
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23%233CCF91&width=435&lines=Hi+there+this+is+Faizan)]()
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23%233CCF91&width=435&lines=Hi!+there+this+is+Faizan)]()
 ===================================================================================================================================
- 
-<!-- 
-<img href="google.com" src="" width="60" height="60" />
 
-<img href="google.com" src="" width="60" height="60" />
--->
 
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+
+<!--
+ ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 <p align="left">
 <img href="google.com" src="https://user-images.githubusercontent.com/79694828/230014332-40078db9-dcdb-4403-8e58-cfbe8572a89b.png" width="60" height="60" />
-<!-- <img href="google.com" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" /> -->
+<!-- <img href="google.com" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="60" height="60" /> ->
 
 
  <img href="google.com" src="https://github.com/mohdfaizan5/mohdfaizan5/assets/79694828/1f1e8c80-5aea-410c-8e9f-0320fab2c8c5" width="60" height="60" />
@@ -23,8 +22,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <img href="google.com" src="https://github.com/mohdfaizan5/mohdfaizan5/assets/79694828/610402ca-d1a9-4047-bda5-19c368aac487"  height="50" />
-
-
+-->
  
 <!-- Python Developer | Web development -->
 Helping `Business owners` and `Startup founders` to leverage technology.
@@ -34,7 +32,7 @@ Hello there! I am Faizan. A Python developer, Web developer and Software enginee
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [mohdfaizan13123@gmail.com](mailto:mohdfaizan13123@gmail.com)
-* 📜  [My Portfolio](https://mohdfaizan5.github.io/mohdfaizan5/portfolio.html)
+* 📜  My Portfolio 👉 https://mohdfaizan.me
 * 🧠  I'm learning MERN stack | Entrepreneurship.
 * 🤝  I'm open to collaborating on Web-development | Startups | AI & ML
 ### Contributing on:
