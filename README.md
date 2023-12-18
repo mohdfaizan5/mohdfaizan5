@@ -1,6 +1,11 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Faizan!;" />
+</h1>
+<!--
 [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%23%233CCF91&width=435&lines=Hi!+there+this+is+Faizan)]()
 ===================================================================================================================================
+-->
 
 ## Languages and Tools
 
@@ -84,8 +89,14 @@ Hello there! I am Faizan. A Python developer, Web developer and Software enginee
 
 
 
-<a href="http://www.github.com/mohdfaizan5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfaizan5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mohdfaizan5&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
 <!--
+old Streak stats
+<a href="http://www.github.com/mohdfaizan5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdfaizan5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
 <a href="http://www.github.com/mohdfaizan5"><img src="https://github-readme-stats.vercel.app/api?username=mohdfaizan5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mohdfaizan5's GitHub stats" /></a>
 
 -->
