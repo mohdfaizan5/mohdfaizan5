@@ -11,7 +11,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nextjs,nodejs,mongodb,tailwind,postman,css,html,js,ts,py,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,mongodb,tailwind,postman,css,html,js,py,vscode&perline=6" />
+	  <!-- nextjs, ts-->
   </a>
 </p>
 
@@ -40,14 +41,25 @@
 <!-- Python Developer | Web development -->
 Helping `Business owners` and `Startup founders` to leverage technology.
 ----------------------------------
+Student by day, innovator by night, entrepreneur in my bones.
 
-Hello there! I am Faizan. A Python developer, Web developer and Software engineer from India. I have over 24+ months of experience in tech industry, Python developer, website backend development (Django), CLI tools, teaching etc. I have strong skills in python language. I really enjoyed working in this field and looking for any opportunity you offer! Contact me if you need anything. I'll do my best to meet your needs and have a great working experience together.
+I balance textbooks with late-night code sprints, fueled by a passion for tech and a hunger for innovation. Every line of code is a stepping stone towards my dream: building groundbreaking businesses that push the boundaries of what's possible.
+
+I'm not just a student – I'm a hustler. With 1000+ commits on GitHub and a thirst for growth, I dive headfirst into challenges, relishing the grind and savoring the sweet taste of progress. My CS50p and Infosys Springboard certificates are just milestones on a journey of continuous learning, where failures are fuel and feedback is gold.
+
+So, what's next? I'm open for opportunities that ignite my passion and let me contribute my hustle, my growth mindset, and my collaborative spirit. If you're looking for someone who bleeds innovation and isn't afraid to break the mold, let's connect! Together, we can build something awesome.
+
+👇👇👇
+
+[www.mohdfaizan.me](mohdfaizan.me)
+<!--Hello there! I am Faizan. A Python developer, Web developer and Software engineer from India. I have over 24+ months of experience in tech industry, Python developer, website backend development (Django), CLI tools, teaching etc. I have strong skills in python language. I really enjoyed working in this field and looking for any opportunity you offer! Contact me if you need anything. I'll do my best to meet your needs and have a great working experience together.
 
 * 🌍  I'm based in Bangalore, India
 * ✉️  You can contact me at [mohdfaizan13123@gmail.com](mailto:mohdfaizan13123@gmail.com)
 * 📜  My Portfolio 👉 https://mohdfaizan.me
 * 🧠  I'm learning MERN stack | Entrepreneurship.
 * 🤝  I'm open to collaborating on Web-development | Startups | AI & ML
+-->
 ### Contributing on:
 <p align="center">
 
