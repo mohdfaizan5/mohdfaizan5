@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,react,nodejs,mongodb,tailwind,postman,css,html,js,py,vscode&perline=6" />
-	  <!-- nextjs, ts-->
+    <img src="https://skillicons.dev/icons?i=&perline=6" />
+	  <!-- nextjs, ts,git,github,react,nodejs,mongodb,tailwind,postman,css,html,js,py,vscode-->
   </a>
 </p>
 
