@@ -7,15 +7,35 @@
 ===================================================================================================================================
 -->
 
-## Languages and Tools
+## Languages
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=&perline=6" />
-	  <!-- nextjs, ts,git,github,react,nodejs,mongodb,tailwind,postman,css,html,js,py,vscode-->
+    <img src="https://skillicons.dev/icons?i=js,py,ts&perline=6" />
+	  <!--django, docker,fastapi, -->
+	  <!--sql,mongo, -->
   </a>
 </p>
 
+##  Tools && Frameworks
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,mongodb,tailwind,postgres,prisma,redux,regex,express,figma,nodejs,kali,linux,mint,postman,css,html,vscode,git,github,react,&perline=7" />
+    	  <!--django, docker,fastapi, -->
+	  <!--sql,mongo, -->
+  </a>
+</p>
+
+
+## ⚡ Projects
+|Name|Description|Code & Demo|isDeveloping|needHelp|
+|--|--|--|--|--|
+|Paytm Web Application|A fully flegged application|--|Yes|True|
+|Url Shortner|A fully flegged application|--|Yes|True|
+|Bento grids|A fully flegged application|--|Yes|True|
+- [](hi) -> 
+- 
 <!--
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
