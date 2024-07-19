@@ -29,15 +29,27 @@
 
 
 ## ⚡ Projects
-|Name|Description|Code & Demo|isDeveloping|
-|--|--|--|--|
-|[Paytm Web Application](https://github.com/mohdfaizan5/paytm-clone-full-stack) |A fully flegged application|--|Yes|
-|Url Shortner|Robust clone of bit.ly|--|MVP stage|
-|[Bento grids](https://github.com/mohdfaizan5/bento-grids-generator)|Application for creating good images layout.|[demo🔗](https://bento-grids.mohdfaizan.me/)|Yes|
-|[Library App Checker](https://github.com/mohdfaizan5/library-holiday-checker) |Check whether BTM government library is open today!|[demo🔗](https://library.mohdfaizan.me/)|Yes|
-|A client landing page |A page showcasing all the services offered by dataipulse Australian company|[dataipulse.com](https://www.dataipulse.com/)|Submitted|
+|Name|Description|TechStack |Code & Demo|status|
+|--|--|--|--|---|
+|UnicornSpace UI|A complete UI library build on ShadCN + 10+ tools in it|TNT, Shadcn|[visit](https://unicornspace-ui.vercel.app/) [Codebase](https://github.com/mohdfaizan5/unicornspace-ui)|WIP⚒|
+|Url Shortner|Robust clone of bit.ly|TNT, Shadcn|[Code](https://github.com/mohdfaizan5/url-shortner-nextjs) [Visit]()|MVP stage|
+|LearnQuan|A platform showcasing the posibilites to EdTech|TNT, Shadcn|[Visit](http://learnquan.vercel.app/)|Work in progress|
+|Social Media application|A full fleged application replicating the how social media is built|TNT Shadcn|[Codebase](https://github.com/mohdfaizan5/social_media-vemana-hackathon)|Done|
+|Bento grids|Application for creating good images layout.|React|[Code](https://github.com/mohdfaizan5/bento-grids-generator)[demo🔗](https://bento-grids.mohdfaizan.me/)|Yes|
+DevGrads|A platform for students to learn programming and get jobs| TNT, ShadCN|[Codebase](https://github.com/mohdfaizan5/devgrads) [Visit](https://devgrads.vercel.app)|TNT Shadcn
+|Library App Checker |Check whether BTM government library is open today!|React|[code](https://github.com/mohdfaizan5/library-holiday-checker)[demo🔗](https://library.mohdfaizan.me/)|Yes|
+|A client landing page |A page showcasing all the services offered by dataipulse Australian company|React|[dataipulse.com](https://www.dataipulse.com/)|Submitted|
+|Paytm Web Application |A fully flegged application|MERN|[Code](https://github.com/mohdfaizan5/paytm-clone-full-stack)|--|Yes|
+|ProtectText clone|A clone of ProtectedText.com|MERN|[code](https://github.com/mohdfaizan5/protected_text_clone)| WIP |
+|Google Contacts|A MERN clone of google contacts with rich features|MERN|[code](https://github.com/mohdfaizan5/Google_Contacts-clone) | WIP |
 
+## 🚀 StartUps projects
+|Name|Description|Demo|status|results|
+|--|--|--|--|--|
+|Zulkifl-health|A complete health solution based on herbs and temprament|[Visit](https://zulkifl-health-products.vercel.app/)|WIP⚒|₹0|
+|Indie Toolkit|A product that helps indie hackers and startup owners to build the project seamlessly|[Visit](http://indie-toolkit.vercel.app/)|WIP⚒|$0|
 
+<!-- https://github.com/mohdfaizan5/6-week-cycle -->
 
 
 
