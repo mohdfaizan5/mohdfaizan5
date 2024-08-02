@@ -37,8 +37,9 @@
 |Social Media application|A full fleged application replicating the how social media is built|TNT Shadcn|[Codebase](https://github.com/mohdfaizan5/social_media-vemana-hackathon)|Done|
 |Bento grids|Application for creating good images layout.|React|[Code](https://github.com/mohdfaizan5/bento-grids-generator)[demo🔗](https://bento-grids.mohdfaizan.me/)|Yes|
 DevGrads|A platform for students to learn programming and get jobs| TNT, ShadCN|[Codebase](https://github.com/mohdfaizan5/devgrads) [Visit](https://devgrads.vercel.app)|TNT Shadcn
-|Library App Checker |Check whether BTM government library is open today!|React|[code](https://github.com/mohdfaizan5/library-holiday-checker)[demo🔗](https://library.mohdfaizan.me/)|Yes|
-|A client landing page |A page showcasing all the services offered by dataipulse Australian company|React|[dataipulse.com](https://www.dataipulse.com/)|Submitted|
+|Evento |Browse Events around you!|Nextjs, Prisma|[code](https://github.com/mohdfaizan5/evento-fullstack-nextjs)[demo🔗](https://evento-fullstack-nextjs.vercel.app/)|Completed✅|
+|Library App Checker |Check whether BTM government library is open today!|React|[code](https://github.com/mohdfaizan5/library-holiday-checker)[demo🔗](https://library.mohdfaizan.me/)|Completed✅|
+|A client landing page |A page showcasing all the services offered by dataipulse Australian company|React|[dataipulse.com](https://www.dataipulse.com/)|Delivered✅|
 |Paytm Web Application |A fully flegged application|MERN|[Code](https://github.com/mohdfaizan5/paytm-clone-full-stack)|--|Yes|
 |ProtectText clone|A clone of ProtectedText.com|MERN|[code](https://github.com/mohdfaizan5/protected_text_clone)| WIP |
 |Google Contacts|A MERN clone of google contacts with rich features|MERN|[code](https://github.com/mohdfaizan5/Google_Contacts-clone) | WIP |
